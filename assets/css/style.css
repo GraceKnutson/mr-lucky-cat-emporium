@@ -1,0 +1,45 @@
+body {
+  background-image: url(../img/cat-background.png);
+  margin: 0;
+}
+
+header {
+  background-color: #f0a733;
+  margin-bottom: 40px;
+}
+
+h1 {
+  text-align: center;
+  color: #66200d;
+  padding: 10px;
+  margin: 0px;
+}
+
+div {
+  background-color: #f0a733;
+  border: 2px solid #66200d;
+  width: 500px;
+  margin-bottom: 40px;
+}
+
+img {
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+h2,
+p {
+  color: #66200d;
+  padding: 5px;
+}
+
+#center {
+  margin: auto;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+#right {
+  margin-left: auto;
+  margin-bottom: 40px;
+}
